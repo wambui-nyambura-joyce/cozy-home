@@ -1,0 +1,191 @@
+#navigation ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+}
+#navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+}
+.image{
+    width: 100%;
+  height: 140vh;
+  background-image: url('cozy\ home.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  
+}
+.image1{
+   width: 250px;
+   height: 250px;
+   margin-left: 10%;
+}
+.image2{
+    width: 250px;
+   height: 250px;
+   margin-left: 4%;
+}
+.image3{
+    width: 250px;
+   height: 250px;
+   margin-left: 4%;
+}
+.button1{
+    text-align: center;
+    margin-left: 14%;
+    margin-top: 28%;
+}
+.design1{
+    width: 250px;
+   height: 250px;
+   margin-left: 10%;
+}
+.design2{
+    width: 250px;
+    height: 250px;
+    margin-left: 4%;
+}
+.design3{
+    width: 250px;
+    height: 250px;
+    margin-left: 4%;
+}
+.info1{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 10%;
+}
+.info2{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 15%;
+    
+}
+.info3{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 60%;
+    
+ }
+ .det1{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 10%;
+ }
+ .det2{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 20%;
+ }
+ .det3{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 60%;
+ }
+ .main{
+    background-color: #002d3d;
+ }
+ .sub{
+    margin-left: 10%;
+ }
+ .exp{
+    font-size: xx-large;
+    margin-left: 4%;
+    color: #ffec7d;
+    
+ }
+ /* .design{
+    color: #ffffff;
+ } */
+ .mod{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 10%;
+ }
+ .clas{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 15%;
+ }
+ .scan{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+    margin-left: 60%;
+ }
+.circle{
+    border-radius: 2500px;
+    border: solid;
+    height: 300px;
+    width: 350px;
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+    background-color: #ffe5d6;
+    
+}
+.vase{
+    float: right;
+    width: 30%;
+    height: 70%;
+    padding-right: 180px;
+    margin-top: 70px;
+
+}
+.detail{
+    background-color: #ffac7d;
+}
+.instructions{
+    text-align: center;
+    background-color: #ffffff;
+}
+.summary{
+    display: flex;
+    justify-content: space-between;
+    background-color: #002d3d;
+    color: antiquewhite;
+}
+.mak{
+    text-align: center;
+    padding-top: 170px;
+}
+.EXP{
+    text-align: center;
+}
+.shop{
+    text-align: center;
+    background-color: #ffac7d;
+    justify-content: center;
+}
+.joy{
+    background-color: #ffac7d;
+}
+.fin{
+    background-color: #ffac7d;
+    margin-left: 450px;
+    
+}
+#button1{
+    background-color: #ffac7d;
+    margin-left: 550px;
+}
